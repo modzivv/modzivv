@@ -27,7 +27,7 @@
 <br>
 
 ## 🏅 GitHub stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=modzivv&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modzivv&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=modzivv&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modzivv&show_icons=true&bg_color=00000000)
+
+<br>
