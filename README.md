@@ -27,18 +27,8 @@
 <br>
 
 ## 🏅 GitHub stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=modzivv&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modzivv&show_icons=true&bg_color=00000000)
-## 🏅 GitHub stats
 <div style="display: flex; flex-direction: row;">
-  <img src="https://streak-stats.demolab.com?user=modzivv&theme=meta-light&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=modzivv&show_icons=true&bg_color=00000000" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=modzivv&theme=meta-light&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=modzivv&show_icons=true&bg_color=00000000" width="50%" />
 </div>
-## 🏅 GitHub stats
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=modzivv&theme=meta-light&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=modzivv&show_icons=true&bg_color=00000000" /></td>
-  </tr>
-</table>
 <br>
