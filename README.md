@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Speech&color=30D158&height=180&section=header&text=Jihye's%20GitHub&fontSize=45&fontColor=ffffff&fontAlign=70&fontAlignY=50&desc=Hi,%20there!&descSize=30&descColor=ffffff&descAlign=80&descAlignY=25)
+
+<br>
+
 ## 🛠️ Tech Stacks
 <div>
   <!-- 안드로이드 -->
@@ -20,6 +23,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 </div>
 
+<br>
 <br>
 
 ## 🏅 GitHub stats
